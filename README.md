@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, sou o Davi Cavalcanti Barros! 👋
 
-<!--
-**davi814/davi814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)** no **IFPE – Campus Garanhuns**[cite: 3], com sólida formação prévia em **Desenvolvimento de Sistemas pela ETE**[cite: 4] e vivência prática em ambientes corporativos e comerciais (*Home Center Ferreira Costa* e *Grupo Gamotos*)[cite: 2]. 
 
-Here are some ideas to get you started:
+Busco unir minha bagagem em processos e operações à engenharia de software e análise de dados, desenvolvendo soluções eficientes, escaláveis e focadas em resultados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mim
+- 🎓 **Graduação:** Tecnólogo em Análise e Desenvolvimento de Sistemas – IFPE (Previsão: 2029)[cite: 3].
+- 🏫 **Formação Técnica:** Técnico em Desenvolvimento de Sistemas – ETE Ariano Vilar Suassuna[cite: 4].
+- 💼 **Experiência Atual:** Auxiliar de Trade Marketing no Home Center Ferreira Costa[cite: 2].
+- 📍 **Localização:** Garanhuns, Pernambuco[cite: 2].
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias / Habilidades |
+| :--- | :--- |
+| **Linguagens & Web** | `Python`, `HTML5`, `CSS3`, `JavaScript`[cite: 4] |
+| **Banco de Dados** | `SQL`, `Modelagem Relacional`, Operações `CRUD`[cite: 4] |
+| **Engenharia & Metodologias** | `Arquitetura de Sistemas`, `Metodologias Ágeis (Scrum)`, `Testes de Software`[cite: 3] |
+| **Ferramentas & Versionamento** | `Git`, `GitHub`, Ambientes de Desenvolvimento |
+
+---
+
+### 📈 Áreas de Interesse
+- 📊 **Análise de Dados & Business Intelligence** (Transformação de dados em insights comerciais).
+- 🐍 **Desenvolvimento Backend & Automação** com Python.
+- 💻 **Desenvolvimento Web & Soluções Corporativas**.
+
+---
+
+### 📬 Conecte-se Comigo
+
+- **LinkedIn:** [linkedin.com/in/davi-barros-b4313a297](https://www.linkedin.com/in/davi-barros-b4313a297/)
+- **E-mail:** davib7868@gmail.com[cite: 1]
+
+---
+⭐ *Sinta-se à vontade para explorar meus repositórios e entrar em contato para trocarmos ideias sobre tecnologia, dados e desenvolvimento!*
